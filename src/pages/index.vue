@@ -13,7 +13,7 @@ useHead({
   // title: '我的应用',
   // titleTemplate: '%s - dshuais',
   titleTemplate: (titleChunk) => {
-    return titleChunk ? `${titleChunk} - DUSHUAI!` : 'DUSHUAI!'
+    return titleChunk ? `${titleChunk} - 情礼宝藏` : '情礼宝藏'
   },
   link: [{
     rel: 'stylesheet',
